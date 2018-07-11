@@ -98,4 +98,7 @@ dependencies:
   - xz=5.2.4=h14c3975_4
   - zeromq=4.2.5=h439df22_0
   - zlib=1.2.11=ha838bed_2
+  - pip:
+    - flopy
+    - pyemu
 prefix: /home/parallels/miniconda/envs/py36
